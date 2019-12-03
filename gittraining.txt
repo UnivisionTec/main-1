@@ -1,1 +1,2 @@
 Welcome to Git Training
+Git is a open source free software tool
