@@ -2,3 +2,6 @@ Name:
 Age:
 edn.qualification:
 Exp:
+Roll.no:
+Dept:
+YOP:
