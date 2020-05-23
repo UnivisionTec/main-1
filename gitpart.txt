@@ -5,3 +5,5 @@ Exp:
 Roll.no:
 Dept:
 YOP:
+Col.Name:
+Address:
