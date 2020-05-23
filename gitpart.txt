@@ -2,3 +2,7 @@ Name:
 Age:
 edn.qualification:
 Exp:
+Roll.No:
+Col.Name:
+Yop:
+Address:
